@@ -24,7 +24,8 @@ github_username:  DiegoCangas
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: Phlow/feeling-responsive
+#theme: minima
 plugins:
   - jekyll-feed
 
