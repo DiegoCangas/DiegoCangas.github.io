@@ -16,7 +16,7 @@
 title: Diego Cangas Github
 email: diegocangas6@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal github repo page. be welcome to it.
+  This is my personal github repo page. Be welcome to it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://diegocangas.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
